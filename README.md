@@ -96,8 +96,8 @@ contributing to this project, feel free to submit pull requests.
 
 # Contributing
 Please be aware that by contributing to this
-project you are agreeing to the `Code of
-Conduct <https://github.com/tammymakesthings/cpydeploy/blob/master/CODE_OF_CONDUCT.md>`__.
-Contributors who follow the `Code of
-Conduct <https://github.com/tammymakesthings/cpydeploy/blob/master/CODE_OF_CONDUCT.md>`__
+project you are agreeing to the 
+[Code of Conduct](https://github.com/tammymakesthings/cpydeploy/blob/master/CODE_OF_CONDUCT.md).
+Contributors who follow the 
+[Code of Conduct](https://github.com/tammymakesthings/cpydeploy/blob/master/CODE_OF_CONDUCT.md)
 are welcome to submit pull requests and they will be promptly reviewed by project admins.
