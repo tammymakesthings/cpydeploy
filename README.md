@@ -80,19 +80,19 @@ The following tasks are on the roadmap for this script. If you feel like
 contributing to this project, feel free to submit pull requests.
 
 ## Minimum Viable Script tasks
-- [ ] Error handling
+1. [ ] Error handling
 
 ## Enhanced Functionality
-- [ ] Deploying other assets (bitmaps, fonts, etc.)
-- [ ] Configuring library sources in the YAML file
-- [ ] Global YAML plus per-project
-- [ ] Detection of CPY version installed and copying appropriate libraries
-- [ ] Function to scan the script file and attempt to generate a YAML config
-- [ ] Function to download/update CP Library Bundle zips
+1. [ ] Deploying other assets (bitmaps, fonts, etc.)
+2. [ ] Configuring library sources in the YAML file
+3. [ ] Global YAML plus per-project
+4. [ ] Detection of CPY version installed and copying appropriate libraries
+5. [ ] Function to scan the script file and attempt to generate a YAML config
+6. [ ] Function to download/update CP Library Bundle zips
 
 ## Refactoring
-- [ ] A more robust implementation of find_cpy_drive
-- [ ] Modularize script methods into the library and incorporate that
+1. [ ] A more robust implementation of find_cpy_drive
+2. [ ] Modularize script methods into the library and incorporate that
 
 # Contributing
 Please be aware that by contributing to this
