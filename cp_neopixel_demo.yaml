@@ -1,0 +1,8 @@
+"target_board": "cpy_express"
+"libraries":
+  - "neopixel"
+  - "adafruit_fancyled"
+  - "adafruit_itertools"
+"resources":
+  - "fonts"
+  - "bitmaps"
