@@ -1,0 +1,5 @@
+"deploy_as": "main.py"
+"library_sources":
+  - "library_v4": "adafruit-circuitpython-bundle-4.x-mpy"
+  - "library_v3": "adafruit-circuitpython-bundle-3.x-mpy"
+  - "library_v2": "adafruit-circuitpython-bundle-2.x-mpy"
