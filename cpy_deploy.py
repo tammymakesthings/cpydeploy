@@ -2,14 +2,6 @@
 # cpy_deploy.py: Deploy a CircuitPython program and its dependencies
 # Version 0.01, 05/30/2019, Tammy Cravit, tammymakesthings@gmail.com
 ############################################################################
-# To do:
-# - A more robust implementation of find_cpy_drive
-# - Deploying other assets (bitmaps, fonts, etc.)
-# - Error handling
-# - Configuring library sources in the YAML file
-# - Global YAML plus per-project
-# - Detection of CPY version installed and copying appropriate libraries
-###########################################################################
 
 """CircuitPython Deployment Helper
 

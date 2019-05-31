@@ -1,3 +1,4 @@
+"deploy_as": "main.py"
 "target_board": "cpy_express"
 "libraries":
   - "neopixel"
