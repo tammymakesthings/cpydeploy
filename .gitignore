@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Adafruit CircuitPython Library Bundle
+adafruit-circuitpython-bundle-4.x-mpy/
+adafruit-circuitpython-bundle-3.x-mpy/
+adafruit-circuitpython-bundle-2.x-mpy/
